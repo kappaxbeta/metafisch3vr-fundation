@@ -1,4 +1,4 @@
-# spacesvr starter repo
+# Metafisch/3 VR fundation repo
 
 A starter repository to quickly start building using [spacesvr](https://github.com/spacesvr/spacesvr)
 
@@ -8,13 +8,13 @@ A starter repository to quickly start building using [spacesvr](https://github.c
 
 ### \> how to use
 
-clone this repo, then install packages using `yarn install`
+clone this repo, then install packages using `pnpm install`
 
 ### \> scripts
 
-- use `yarn dev` to start a local development server
-- use `yarn start` to start a local production server
-- use `yarn build` to export the site to static files
+- use `pnpm run dev` to start a local development server
+- use `pnpm run start` to start a local production server
+- use `pnpm run build` to export the site to static files
 
 ### \> features
 
